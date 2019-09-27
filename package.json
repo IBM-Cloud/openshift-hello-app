@@ -1,5 +1,5 @@
 {
-  "name": "hellonodeapp",
+  "name": "hello-node-app",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VidyasagarMSC/hellonodeapp.git"
+    "url": "git+https://github.com/IBM-Cloud/hello-node-app.git"
   },
   "keywords": [],
   "author": "Vidyasagar Machupalli",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VidyasagarMSC/hellonodeapp/issues"
+    "url": "https://github.com/IBM-Cloud/hello-node-app/issues"
   },
-  "homepage": "https://github.com/VidyasagarMSC/hellonodeapp#readme"
+  "homepage": "https://github.com/IBM-Cloud/hello-node-app#readme"
 }
