@@ -1,5 +1,5 @@
 {
-  "name": "hello-node-app",
+  "name": "openshift-hello-app",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IBM-Cloud/hello-node-app.git"
+    "url": "git+https://github.com/IBM-Cloud/openshift-hello-app.git"
   },
   "keywords": [],
   "author": "Vidyasagar Machupalli",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IBM-Cloud/hello-node-app/issues"
+    "url": "https://github.com/IBM-Cloud/openshift-hello-app/issues"
   },
-  "homepage": "https://github.com/IBM-Cloud/hello-node-app#readme"
+  "homepage": "https://github.com/IBM-Cloud/openshift-hello-app#readme"
 }
